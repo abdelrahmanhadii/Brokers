@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "425675324006",
+    "firebase_url": "https://androidtaskfirebasedatabase.firebaseio.com",
+    "project_id": "androidtaskfirebasedatabase",
+    "storage_bucket": "androidtaskfirebasedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425675324006:android:a56e2775e2fe5dd6",
+        "android_client_info": {
+          "package_name": "com.example.quantum.brokers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425675324006-dtriaqbp5osiintn9o73rnm5u3ntgtbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quantum.brokers",
+            "certificate_hash": "c9b8aa295ffc7f8b2a4c0827241986325675ff54"
+          }
+        },
+        {
+          "client_id": "425675324006-epbhtm6m8h8pf977gat48id73i796sjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqA99OD0MMp5Mi-Vil6M5RvtHv-bar7QM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425675324006-epbhtm6m8h8pf977gat48id73i796sjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
